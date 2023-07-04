@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r-jazz
+- 👋 Hi, I’m @ritzfy
 - 👀 I’m interested in C, C++, Python, Cybersecurity, Cryptography
 - 🌱 I’m currently learning Operating Systems
 
